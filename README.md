@@ -17,7 +17,7 @@ favicon.png 500 x 500(px)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" />  
 ```
 
-## Reset.css
+## 오픈 그래프(The Open Graph protocol)
 오픈 그래프(The Open Graph protocol)  
 웹페이지가 소셜 미디어로 공유될 때 우선적으로 활용되는 정보를 지정합니다.  
 `링크를 붙여 넣기 했을 때 노출되는 이미지, 제목, 설명글로 구성된 프리뷰`  
